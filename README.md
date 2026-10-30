@@ -1,8 +1,12 @@
 # MeetingMind - AI Meeting Intelligence Platform
 
+🔗 **Live Demo:** [https://code-celix-ai-meeting-intelligence-alpha.vercel.app](https://code-celix-ai-meeting-intelligence-alpha.vercel.app)
+
 An AI-powered meeting intelligence platform that automatically transcribes, analyzes, and extracts insights from meeting recordings using Deepgram (speech-to-text) and Gemini (AI analysis).
 
 ---
+
+
 
 ## 🚀 Quick Start — Command Reference
 
